@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/en/categories/</loc>
+    <loc>https://lyrical-wander.github.io/LyricalWander-Blog/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/categories/"
+                href="https://lyrical-wander.github.io/LyricalWander-Blog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/categories/"
+                href="https://lyrical-wander.github.io/LyricalWander-Blog/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/categories/"
+                href="https://lyrical-wander.github.io/LyricalWander-Blog/en/categories/"
                 />
   </url><url>
-    <loc>https://example.com/en/</loc>
+    <loc>https://lyrical-wander.github.io/LyricalWander-Blog/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/"
+                href="https://lyrical-wander.github.io/LyricalWander-Blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/"
+                href="https://lyrical-wander.github.io/LyricalWander-Blog/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/"
+                href="https://lyrical-wander.github.io/LyricalWander-Blog/en/"
                 />
   </url><url>
-    <loc>https://example.com/en/tags/</loc>
+    <loc>https://lyrical-wander.github.io/LyricalWander-Blog/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/tags/"
+                href="https://lyrical-wander.github.io/LyricalWander-Blog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/tags/"
+                href="https://lyrical-wander.github.io/LyricalWander-Blog/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/"
+                href="https://lyrical-wander.github.io/LyricalWander-Blog/en/tags/"
                 />
   </url>
 </urlset>
